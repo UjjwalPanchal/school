@@ -1,0 +1,30 @@
+.tbg1{background-color: #104378; color: white; font-family: 'Poppins', sans-serif;font-weight: 400;font-size: 14px;}
+.front{padding:0}
+.Account{background-color: #98c73a;color: white;font-family: 'Poppins', sans-serif; font-weight: 500; font-size: 14px;}
+
+
+.heading{font-family: 'Verdana', sans-serif;font-weight: 600; font-size:42px;}
+.heading1{font-family: 'Arial', sans-serif;font-weight: 600; font-size: 18px;}
+.navbar{margin-top: 17px; margin-left: 24%;font-family: 'Arial', sans-serif;font-weight: 600; font-size: 16px;}
+.nav-link{color: #104378;}
+.nav-link:hover{color: white;background-color: green;border-radius: 5px;font-size: 18px;}
+.overlay{width:50%; position:absolute;top:43%;left:45%;text-align:center;font-family: 'Arial', sans-serif;background-color:rgba(0,0,0,0.7);color: white;border-top-left-radius: 5px;border-top-right-radius: 5px;padding:10px}
+.overlay1{width:45%;position:absolute;top:71.5%;left:50%;text-align:center;font-family: 'Poppins', sans-serif;font-weight: 400; font-size: 12px;background-color:rgba(0,0,0,0.7);color: white;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;}
+.img-box{width: 100%}
+.bg{background-color: #1b70bb;}
+.program{color: white;text-align: center;font-family: 'Myriad pro', sans-serif;font-weight: 600;font-size: 30px;}
+.program1{color: white;text-align: center;font-family: 'Poppins', sans-serif;font-weight: 400;font-size: 12px;}
+.img-box1{position: relative}
+.img-effects{border-top-left-radius: 5px;border-top-right-radius: 5px;width:100% }
+.gal-text{position:absolute;width:100%;text-align:center;top:62%;color:white;background-color:rgba(0,0,0,0.7);font-family: 'Poppins', sans-serif;font-weight: 600;font-size: 18px;}
+.text-box{background-color: white;color: black;width: 100%;text-align: center;font-family: 'Poppins', sans-serif;font-weight: 500;font-size: 12px;text-align: center;border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;}
+.bg1{background-color: #2491eb;}
+.container-box{background-color: #145593;color: white;}
+.container-box1{margin-left: 15%;font-family: 'Arial', sans-serif;font-weight: 600;font-size: 30px;margin-top: 5%;}
+.container-box2{color: white;font-family: 'Arial', sans-serif;font-weight: 400;font-size: 20px;}
+.container-box2:hover{background-color: green;color: white;border-radius: 5px;width: 80%;font-size: 22px;}
+.container-box3{color: white;font-family: 'Arial', sans-serif;font-weight: 400;font-size: 20px;}
+.bottom{text-align: center;}
+div#Contact ul li {
+list-style: none;
+}
